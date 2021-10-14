@@ -1,2 +1,3 @@
-# Intro_to_Java
+# Introduction to Computer Programming
+
 Assignments I worked on fall 2017
